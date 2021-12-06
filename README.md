@@ -1,7 +1,6 @@
-# Hackathon de novembre 2021
-Avec mon équipe, nous avons relevé le défi d'écrire une solution data sur le thème de la musique en 24H ! 
-Passionnés par la réponse aux problématiques des métiers, nous avons décidé de répondre à une problématique récurrente chez le musicien professionnel : quelle certitude peut il avoir que la chanson qu'il crée trouvera son public ? En d'autres termes, comment peut on prédire la popularité de sa composition musicale ? 
+# Hackathon de novembre 
+With my team, we took up the challenge of writing a data solution for the music industry, in 24 hours! Passionate about answering business problems, we decided to answer a recurring one for the professional musicians: how sure can they be that the songs they create will find their audience? In other words, how can one predict the popularity of musical compositions?
 
-Grâce à l'analyse des caractéristiques techniques de la chanson créée et en se basant également sur l'analyse des caractéristiques des autres chansons dans le même genre musical, nous avons conçu un algorithme permettant de prédire la popularité de la chanson de l'artiste. Notre alogorithme est construit autour d'un modèle de machine learning (KNN) avec le langage python. 
+Through the analysis of the technical characteristics of the created song and based on the analysis of the characteristics of other songs in the same musical genre, we have designed an algorithm that predicts the popularity of the artist's song. Is built around a learning machine model using python language.
 
 
